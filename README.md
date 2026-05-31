@@ -30,8 +30,6 @@ Tools       Pandas · NumPy · scikit-learn · statsmodels · Jupyter
 | Project | Description | Stack |
 |---|---|---|
 | [Tariffs & Investment Returns](#) | CFA Institute published research on tariff regime impacts on equity returns | R · Panel data |
-| [Options Pricing Engine](#) | Binomial tree + Black-Scholes with Greeks and early exercise detection | Python |
-| [Nova Capital Strategies](#) | Systematic backtested strategies with risk management overlays | Python |
 
 ---
 
